@@ -1,0 +1,107 @@
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 0;
+    padding: 5px;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.active:hover{
+    color: red;
+}
+
+
+
+b{
+    color: red;
+}
+
+.menu_item{
+    margin-right: 20px;
+}
+
+.menu_item:last-child{
+    margin-right: 20px;
+}
+
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+body{
+    margin:0;
+    background-color: #e3faff;
+    font-family:  Helvetica, sans-serif, Arial;
+    font-size: 26px;
+}
+
+h1{
+    margin:0;
+    margin-bottom: 10px;
+}
+
+
+#text{
+    color: blue;
+    font-weight: 900;
+}
+
+
+.list-wraper{
+    background-color: #e8eaed;
+    width: 1050px;
+    margin: 0 auto;
+}
+
+.list{
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+
+
+
+.footer {
+    background-color: #FBFBFB;
+    height: 216px;
+    padding-top: 56px;
+    color: #ffffff;
+}
+
+
+
+.Elya{
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+
+.footer-inner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card2{
+    width: 420px;
+    height: 250px;
+    background-color: #bdd6ff;
+    border-radius: 20px;
+    margin: 20px 0;
+}
+
+
+.card{
+    width: 28   0px;
+    height: 250px;
+    background-color: #bdd6ff;
+    border-radius: 20px;
+    margin: 20px 0;
+}
